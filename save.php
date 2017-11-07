@@ -16,6 +16,8 @@ if ($_FILES["image"]["type"] == "image/png") {
     <title>Storage test</title>
 </head>
 <body>
+
 <a href="./images/test.png">Your file</a>
+
 </body>
 </html>
